@@ -1,0 +1,50 @@
+
+.forminator-ui#forminator-module-4153.forminator-design--default .forminator-input, .forminator-ui#forminator-module-4153.forminator-design--default .forminator-input:hover, .forminator-ui#forminator-module-4153.forminator-design--default .forminator-input:focus, .forminator-ui#forminator-module-4153.forminator-design--default .forminator-input:active {
+ 
+    border-color: #c9c9c9;
+    background-color: #ffffff !important;
+    color: #000000;
+    border: none !important;
+    border-bottom: 1px solid #c9c9c9 !important;
+    border-radius: 5px 5px 0px 0px !important;
+}
+.forminator-ui#forminator-module-4152.forminator-design--default .forminator-input, .forminator-ui#forminator-module-4152.forminator-design--default .forminator-input:hover, .forminator-ui#forminator-module-4152.forminator-design--default .forminator-input:focus, .forminator-ui#forminator-module-4152.forminator-design--default .forminator-input:active {
+	
+	 border-color: #c9c9c9;
+    background-color: #ffffff !important;
+    color: #000000;
+    border: none !important;
+    border-bottom: 1px solid #c9c9c9 !important;
+    border-radius: 5px 5px 0px 0px !important;
+	
+	
+}
+.forminator-ui#forminator-module-4153.forminator-design--default .forminator-button-submit {
+    background-color: #536fb5 !important;
+    color: #FFFFFF;
+    width: 100%;
+}
+.forminator-ui#forminator-module-4152.forminator-design--default .forminator-button-submit {
+    background-color: #536fb5 !important;
+    color: #FFFFFF;
+    width: 100%;
+}
+
+.elementor-3682 .elementor-element.elementor-element-8acd812 .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {
+    background-color: #ffffff;
+    border-color: #c9c9c9;
+    background-color: #ffffff !important;
+    color: #000000;
+    border: none !important;
+    border-bottom: 1px solid #c9c9c9 !important;
+    border-radius: 5px 5px 0px 0px !important;
+}
+h3 a {
+    font-size: 20px !important;
+}
+iframe.tableauViz {
+    height: 500px !important;
+}
+.tableauPlaceholder {
+    height: 500px !important;
+}
